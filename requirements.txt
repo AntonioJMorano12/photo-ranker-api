@@ -6,4 +6,5 @@ pillow
 torchvision
 numpy
 opencv-python-headless
-mediapipe
+
+
